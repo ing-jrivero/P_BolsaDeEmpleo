@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{25BED820-3916-4DCC-ACF3-AA6662046708}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ing_soft_ss_05</RootNamespace>
+    <AssemblyName>ing_soft_ss_05</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=8.0.22.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Installer for Windows\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Archivo Muerto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Archivo Muerto.Designer.cs">
+      <DependentUpon>Archivo Muerto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta1.Designer.cs">
+      <DependentUpon>Consulta1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cursos.Designer.cs">
+      <DependentUpon>Cursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Departamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departamentos.Designer.cs">
+      <DependentUpon>Departamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Documentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Documentos.Designer.cs">
+      <DependentUpon>Documentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado.cs" />
+    <Compile Include="Escolaridad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Escolaridad.Designer.cs">
+      <DependentUpon>Escolaridad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Experiencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Experiencia.Designer.cs">
+      <DependentUpon>Experiencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Horarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Horarios.Designer.cs">
+      <DependentUpon>Horarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="M_Bolsa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="M_Bolsa.Designer.cs">
+      <DependentUpon>M_Bolsa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="M_Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="M_Empleado.Designer.cs">
+      <DependentUpon>M_Empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perfiles.Designer.cs">
+      <DependentUpon>Perfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Puestos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Puestos.Designer.cs">
+      <DependentUpon>Puestos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registro_Bolsa.cs" />
+    <Compile Include="Reporte_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte_1.Designer.cs">
+      <DependentUpon>Reporte_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte_2.Designer.cs">
+      <DependentUpon>Reporte_2.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Archivo Muerto.resx">
+      <DependentUpon>Archivo Muerto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta1.resx">
+      <DependentUpon>Consulta1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cursos.resx">
+      <DependentUpon>Cursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Departamentos.resx">
+      <DependentUpon>Departamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Documentos.resx">
+      <DependentUpon>Documentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Escolaridad.resx">
+      <DependentUpon>Escolaridad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Experiencia.resx">
+      <DependentUpon>Experiencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Horarios.resx">
+      <DependentUpon>Horarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="M_Bolsa.resx">
+      <DependentUpon>M_Bolsa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="M_Empleado.resx">
+      <DependentUpon>M_Empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perfiles.resx">
+      <DependentUpon>Perfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Puestos.resx">
+      <DependentUpon>Puestos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_1.resx">
+      <DependentUpon>Reporte_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_2.resx">
+      <DependentUpon>Reporte_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,93 @@
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\ing_soft_ss_05.exe.config
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\ing_soft_ss_05.exe
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\ing_soft_ss_05.pdb
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.csprojResolveAssemblyReference.cache
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Form1.resources
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Properties.Resources.resources
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.csproj.GenerateResource.Cache
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.exe
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.pdb
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\MySql.Data.dll
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\Google.Protobuf.dll
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\Zstandard.Net.dll
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\K4os.Compression.LZ4.Streams.dll
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\Ubiety.Dns.Core.dll
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\Renci.SshNet.dll
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\System.Buffers.dll
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\K4os.Compression.LZ4.dll
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\K4os.Hash.xxHash.dll
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\MySql.Data.xml
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Departamentos.resources
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Perfiles.resources
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Puestos.resources
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Cursos.resources
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Escolaridad.resources
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Documentos.resources
+c:\users\usuario 001\documents\visual studio 2015\Projects\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Horarios.resources
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\ing_soft_ss_05.exe.config
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.exe
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.pdb
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\ing_soft_ss_05.exe
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\ing_soft_ss_05.pdb
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\MySql.Data.dll
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\Google.Protobuf.dll
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\Zstandard.Net.dll
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\Renci.SshNet.dll
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\System.Buffers.dll
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\MySql.Data.xml
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.csprojResolveAssemblyReference.cache
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Cursos.resources
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Departamentos.resources
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Documentos.resources
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Escolaridad.resources
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Form1.resources
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Horarios.resources
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Perfiles.resources
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Properties.Resources.resources
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Puestos.resources
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.csproj.GenerateResource.Cache
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.M_Bolsa.resources
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.M_Empleado.resources
+C:\Users\Galla\Documents\Materias Semestre 10\Ingenieria de software\PROYECTO\BOLSA\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Archivo_Muerto.resources
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\ing_soft_ss_05.exe.config
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.exe
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.pdb
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\ing_soft_ss_05.exe
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\ing_soft_ss_05.pdb
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\MySql.Data.dll
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\Zstandard.Net.dll
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\Renci.SshNet.dll
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\System.Buffers.dll
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\bin\Debug\MySql.Data.xml
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.csprojResolveAssemblyReference.cache
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Archivo_Muerto.resources
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Cursos.resources
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Departamentos.resources
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Documentos.resources
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Escolaridad.resources
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Form1.resources
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Horarios.resources
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.M_Bolsa.resources
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.M_Empleado.resources
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Perfiles.resources
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Properties.Resources.resources
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.Puestos.resources
+C:\Users\Usuario 001\Downloads\ing_soft_ss_05 (3)\ing_soft_ss_05\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.csproj.GenerateResource.Cache
+C:\Users\Usuario 001\Documents\Visual Studio 2015\Projects\ing_soft_ss_07\ing_soft_ss_05\bin\Debug\ing_soft_ss_05.exe.config
+C:\Users\Usuario 001\Documents\Visual Studio 2015\Projects\ing_soft_ss_07\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.exe
+C:\Users\Usuario 001\Documents\Visual Studio 2015\Projects\ing_soft_ss_07\ing_soft_ss_05\obj\Debug\ing_soft_ss_05.pdb
